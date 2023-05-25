@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://kranthi-kumar.netlify.app/static/media/Expense%20Tracker.104f7f0b5924d543a740.jpg" alt="project-screenshot" width="1920" height="740/">
+<img src="https://kranthi-kumar.netlify.app/static/media/Expense%20Tracker.104f7f0b5924d543a740.jpg" alt="project-screenshot" width="1920" height="700/">
   
 <br>
 <br>
