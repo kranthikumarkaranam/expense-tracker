@@ -16,7 +16,7 @@
 
 <h2>🖼️ Project Screenshots:</h2>
 
-<img src="https://kranthi-kumar.netlify.app/static/media/Expense%20Tracker.104f7f0b5924d543a740.jpg" alt="project-screenshot" width="1920" height="1507/">
+<img src="https://kranthi-kumar.netlify.app/static/media/Expense%20Tracker.104f7f0b5924d543a740.jpg" alt="project-screenshot" width="1920" height="750/">
   
 <br></br>
 <h2>💡 Features</h2>
