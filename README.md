@@ -138,5 +138,3 @@ Contributions are highly appreciated! If you come across any issues or have sugg
 <h3>Made with ❤️ by KRANTHI.</h3>
 
 <br>
-<br>
-<br>
