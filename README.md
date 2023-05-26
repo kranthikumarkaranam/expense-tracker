@@ -128,4 +128,18 @@ By following these guidelines, you can contribute to the project effectively and
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIRQ)
+<p>
+    <img src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIRQ" alt="Image for light mode" style="display: block;">
+    <img src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIR" alt="Image for dark mode" style="display: none;">
+  </p>
+  
+  <style>
+    @media (prefers-color-scheme: dark) {
+      img[src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIRQ"] {
+        display: none;
+      }
+      img[src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIR"] {
+        display: block;
+      }
+    }
+  </style>
