@@ -45,7 +45,8 @@ Here're some of the project's best features:
 <h4>Follow the steps below to set up the project:</h4>
 
 <p style="font-weight: bold;">1. Clone the repository:</p>
-To clone the expense-tracker repository, run the following command in your terminal:
+
+> To clone the expense-tracker repository, run the following command in your terminal:
 
 ```
 git clone https://github.com/kranthikumarkaranam/expense-tracker.git
@@ -54,7 +55,8 @@ git clone https://github.com/kranthikumarkaranam/expense-tracker.git
 <br>
 
 <p style="font-weight: bold;">2. Install the dependencies:</p>
-After cloning the repository, navigate to the project directory in your terminal and run the following command to install the required dependencies:
+
+> After cloning the repository, navigate to the project directory in your terminal and run the following command to install the required dependencies:
 
 ```
 npm install
@@ -63,7 +65,9 @@ npm install
 <br>
 
 <p style="font-weight: bold;">3. Start the server:</p>
-To start the server and run the Expense Tracker application, use the following command:
+
+> To start the server and run the Expense Tracker application, use the following command:
+
 
 ```
 npm start
@@ -72,11 +76,28 @@ npm start
 <br>
 
 <p style="font-weight: bold;">4. Access Expense Tracker:</p>
-Once the server is up and running, you can access the Expense Tracker application in your web browser by following these steps:
+
+> Once the server is up and running, you can access the Expense Tracker application in your web browser by following these steps:
 
 * Open your web browser.
 * Type `http://localhost:3000` in the address bar.
 * Press Enter to access the Expense Tracker application.
+
+<br>
+<br>
+
+<h2>📌 Quick Start Guide</h2>
+<p>Here are the necessary steps to effectively utilize the Expense Tracker application.</p>
+
+- __Dashboard Overview:__ Upon accessing the Expense Tracker application, you will be presented with the main dashboard.
+- __Adding a New Expense:__ To add a new expense, click on the "Add New Expense" button. Fill in the required fields such as the expense title, amount, and date. Click "Add Expense" to add the expense entry.
+-  __Expense List:__ The newly added expense will appear in the expense list on the dashboard. You can view the title, amount, and date of each expense.
+- __Expense Filtering:__ To filter expenses by year, use the filtering capability provided. Select the desired year from the dropdown menu, and the expense list will update accordingly.
+- __Insights with Interactive Charts:__ Gain insights into your expenses through interactive charts. These charts provide a visual representation of your financial data and help you analyze your spending patterns.
+- __Data Validation:__ The Expense Tracker application ensures data integrity with input validation. It validates the information entered, ensuring that only valid data is accepted for the expense title, amount, and date fields.
+- __Exploring Additional Features:__ For additional functionalities or features, explore the application and interact with its various components.
+
+> By following these usage instructions, you can effectively utilize the Expense Tracker application to track and manage your expenses, gain insights into your financial records, and maintain control over your personal finances.
 
 <br>
 <br>
@@ -93,22 +114,6 @@ Technologies used in the project:
 <br>
 <br>
 
-<h2>📌 Quick Start Guide</h2>
-<p>Here are the necessary steps to effectively utilize the Expense Tracker application.</p>
-
-- __Dashboard Overview:__ Upon accessing the Expense Tracker application, you will be presented with the main dashboard.
-- __Adding a New Expense:__ To add a new expense, click on the "Add New Expense" button. Fill in the required fields such as the expense title, amount, and date. Click "Add Expense" to add the expense entry.
--  __Expense List:__ The newly added expense will appear in the expense list on the dashboard. You can view the title, amount, and date of each expense.
-- __Expense Filtering:__ To filter expenses by year, use the filtering capability provided. Select the desired year from the dropdown menu, and the expense list will update accordingly.
-- __Insights with Interactive Charts:__ Gain insights into your expenses through interactive charts. These charts provide a visual representation of your financial data and help you analyze your spending patterns.
-- __Data Validation:__ The Expense Tracker application ensures data integrity with input validation. It validates the information entered, ensuring that only valid data is accepted for the expense title, amount, and date fields.
-- __Exploring Additional Features:__ For additional functionalities or features, explore the application and interact with its various components.
-
-By following these usage instructions, you can effectively utilize the Expense Tracker application to track and manage your expenses, gain insights into your financial records, and maintain control over your personal finances.
-
-<br>
-<br>
-
 <h2>🍰 Contribution Guidelines</h2>
 
 Contributions are highly appreciated! If you come across any issues or have suggestions for improvements, please feel free to submit a pull request. To ensure smooth collaboration, please follow the guidelines below:
@@ -117,14 +122,20 @@ Contributions are highly appreciated! If you come across any issues or have sugg
 * Ensure that your code adheres to the project's coding style and conventions.
 * Provide clear and concise descriptions of your changes in the pull request.
 
-By following these guidelines, you can contribute to the project effectively and help enhance its quality. Thank you for your valuable contributions!
+> By following these guidelines, you can contribute to the project effectively and help enhance its quality. Thank you for your valuable contributions!
 
 <br>
 <br>
 
 <h2>💖 Like my work?</h2>
 
+<P>Thank you for taking the time to explore the project. I hope it brings value and joy to those who use it.</P>
+
 <p>If you need any assistance or have any inquiries, please feel free to contact me <a href="mailto:2019271@iiitdmj.ac.in" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<br>
+
+<h3>Made with ❤️ by KRANTHI.</h3>
 
 <br>
 <br>
