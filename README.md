@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img src="https://socialify.git.ci/kranthikumarkaranam/expense-tracker/image?description=1&amp;descriptionEditable=Efficiently%20Managing%20Personal%20Finances%3A%20An%20Expense%20Tracking%20Solution&amp;font=Raleway&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/kranthikumarkaranam/expense-tracker/image?description=1&amp;descriptionEditable=Efficiently%20Managing%20Personal%20Finances%3A%20An%20Expense%20Tracking%20Solution&amp;font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Auto" alt="project-image"></p>
 
 <p align="center" id="description" >The project is an expense tracker application built with React. It allows users to keep track of their expenses by adding details such as the expense title, amount, and date. Users can add new expenses, view a list of their expenses, filter expenses by year, and see a visual representation of their expenses through charts. The application helps users monitor their spending and manage their financial records effectively.</p>
 
@@ -127,19 +127,5 @@ By following these guidelines, you can contribute to the project effectively and
 <p>If you need any assistance or have any inquiries, please feel free to contact me <a href="mailto:2019271@iiitdmj.ac.in" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
 <br>
-
-<p>
-    <img src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIRQ" alt="Image for light mode" style="display: block;">
-    <img src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIR" alt="Image for dark mode" style="display: none;">
-  </p>
-  
-  <style>
-    @media (prefers-color-scheme: dark) {
-      img[src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIRQ"] {
-        display: none;
-      }
-      img[src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/down.png?token=GHSAT0AAAAAACBJ6QG4UDGULDP4HEARVLUUZDQDIR"] {
-        display: block;
-      }
-    }
-  </style>
+<br>
+<br>
